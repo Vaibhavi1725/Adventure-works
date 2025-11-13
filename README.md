@@ -29,7 +29,3 @@ The dashboard consists of **5 interactive tabs**:
 Power BI Report (PDF):  
 👉 [View Adventures Work Report (PDF)](https://github.com/Vaibhavi1725/Adventure-works/blob/main/Adventures%20Work.pdf)
 
-
-
-
-⭐ *Feel free to explore the report and share feedback!*
